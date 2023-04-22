@@ -12,7 +12,7 @@ function RecipeList() {
     },
     {
       id: 2,
-      name: 'Grilled Chicken Salad',
+      name: 'Chicken Salad',
       image: 'https://www.example.com/images/salad.jpg',
       description: 'A healthy and delicious salad, perfect for lunch or dinner.',
       mealType: 'Lunch',
