@@ -22,7 +22,7 @@ function RecipeList() {
     {
       id: 3,
       name: 'Puri',
-      image: 'https://www.shutterstock.com/shutterstock/photos/477880174/display_1500/stock-photo-puri-bhaji-is-indian-breakfast-dish-it-is-made-of-flat-round-flour-deep-fried-and-served-with-477880174.jpg',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Fluffy_Poori.JPG/1200px-Fluffy_Poori.JPG',
       description: 'Small, round, fried Indian bread, airy texture.',
       mealType: 'Breakfast',
       dietaryRestrictions: ['Vegetarian'],
