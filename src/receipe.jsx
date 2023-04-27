@@ -180,7 +180,7 @@ function RecipeList() {
   const filteredRecipes = recipes.filter((recipe) => {
     if (selectedCriteria && recipe[selectedCriteria]) {
       return recipe[selectedCriteria].includes(searchKeyword);
-    } else {
+    } else{
       return (
         recipe.name.includes(searchKeyword) ||
         recipe.description.includes(searchKeyword)
